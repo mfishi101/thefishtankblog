@@ -183,4 +183,10 @@ $('.week8').click(function(){
     
 });
 
+$('.week29').click(function(){
+    
+   $('.week29content').toggle(1000,'swing'); 
+    
+});
+
 });

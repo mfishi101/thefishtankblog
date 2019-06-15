@@ -5,7 +5,7 @@
 			
 			  <!--<script src="js/scripts.js"></script> -->
 			  
-			  <script src="js/scripts.js?version=3.7"></script>
+			  <script src="js/scripts.js?version=3.8"></script>
 
 
 			<div class="like-me">

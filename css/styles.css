@@ -11,8 +11,12 @@
     font-size: 12px;
 }
 body {
-    background: url('../images/backgroundImage.jpg') top left no-repeat;
+    background: url('../images/backgroundImage.jpg') no-repeat center center fixed;
     background-color: #071927;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     
        
     

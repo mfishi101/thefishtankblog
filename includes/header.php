@@ -28,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="css/normalize.css" />
     <link rel="stylesheet" type="text/css" media="screen and (max-width: 650px)" href="css/mobile.css?version=2.0">
-    <link rel="stylesheet" type="text/css" media="screen and (min-width: 651px)" href="css/styles.css?version=2.0">
+    <link rel="stylesheet" type="text/css" media="screen and (min-width: 651px)" href="css/styles.css?version=2.1">
     <!-- <link rel="stylesheet" type="text/css" media="screen" href="css/styles.css?version=1.7" /> -->
     <script src="js/modernizr.js"></script>
 
