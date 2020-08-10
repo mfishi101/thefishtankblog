@@ -20,11 +20,11 @@
     <meta Http-Equiv="Cache-directive: no-cache">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>The FishTank Blog || <?php echo TITLE; ?></title>
-<meta property="og:url"                content="http://www.thefishtankblog.co.za" />
-<meta property="og:type"               content="blog" />
-<meta property="og:title"              content="The FishTank Blog" />
-<meta property="og:description"        content="My excitingly terrifying journey into parenthood and some side projects" />
-<meta property="og:image"              content="" />
+    <meta property="og:url"                content="http://www.thefishtankblog.co.za" />
+    <meta property="og:type"               content="blog" />
+    <meta property="og:title"              content="The FishTank Blog" />
+    <meta property="og:description"        content="My excitingly terrifying journey into parenthood and some side projects" />
+    <meta property="og:image"              content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="css/normalize.css" />
     <link rel="stylesheet" type="text/css" media="screen and (max-width: 650px)" href="css/mobile.css?version=2.0">
