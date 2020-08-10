@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/thefifbk/public_html/
-    - /repositories/cp -R thefishtankblog $DEPLOYPATH
+    - cp -R /home/thefifbk/repositories/thefishtankblog $DEPLOYPATH
